@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a UChicago alumni with a background in computer science and physics. Here are some projects I enjoyed working on!
+
 <!--
 **minhkhoimac/minhkhoimac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
