@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi!👋
 
 I'm a UChicago alumni with a background in computer science and physics. Here are some projects I enjoyed working on!
 
